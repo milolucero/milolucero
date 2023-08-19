@@ -1,7 +1,7 @@
 ### Hi, I'm Camilo 👋
 
-- 📚 I'm currently studying Business Information Technology at the Red River College Polytech.
-- 🌱 I’m currently learning C# and Java.
+- 📚 5th term Business Information Technology student at Red River College Polytech.
+- 🌱 I’m currently improving my skills on TypeScript, React and C#.
 - 👯 I’m currently collaborating in building the [new website](https://github.com/bits-and-bytes-association/bba-website-nextjs) for the Red River College Bits and Bytes Association, using Next.js and React.
 - ⚔ I have solved +150 coding challenges on [CodeWars](https://www.codewars.com/users/milolucero) and [LeetCode](https://leetcode.com/milolucero/).
 - 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/milolucero/).
